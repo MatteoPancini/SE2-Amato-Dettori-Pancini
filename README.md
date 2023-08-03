@@ -16,6 +16,11 @@ e) decide from which DSO to acquire energy (if more than one is available);
 f) dynamically decide where to get energy for charging (station battery, DSO, or a mix thereof according to availability and cost).
 The interaction between the various providers (eMSPs, CPOs, and DSOs) occurs through uniform APIs. Thanks to this, an eMSP can interact with multiple CPOs and, on the other side, a CPO can interact with multiple eMSPs. Hence, users can exploit a large variety of charging options. Similarly, a CPO can interact with multiple DSOs and vice versa.
 
+## 🎯 Goal and approach
+The objective of this project is to apply in practice what you learn during lectures with the purpose of becoming familiar with software engineering practices and able to address new software engineering issues in a rigorous way. The project includes two assignments:
+1. The preparation of a Requirement Analysis and Specification Document (RASD) for a problem we provide you.
+2. The definition of the Design Document (DD) for the system considered in point 1 above.
+
 ## 👤 Team
 + Valeria Amato
 + Francesco Dettori
